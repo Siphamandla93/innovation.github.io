@@ -1,0 +1,56 @@
+.navHeader{
+  margin-top: 5px;
+  height: 100px;
+}
+.mainHeader{
+  font-size: 50px;
+  font-variant-caps: all-petite-caps;
+  font-weight: bold;
+  margin-left: 120px;
+
+}
+.names{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 80px;
+  font-weight: bold;
+  font-variant-caps: all-petite-caps;
+}
+
+.textField{
+
+  text-align: center;
+  font-variant-caps: all-petite-caps;
+  font-size: 30px;
+
+}
+.textArea{
+  padding-left:200px;
+  padding-right:200px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.btn1{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.submitName{
+  width: 400px;
+  font-variant-caps: all-petite-caps;
+  font-size: 50px;
+}
+
+.output{
+  text-align: center;
+  margin-top: 40px;
+  font-variant-caps: all-petite-caps;
+  font-size: 40px;
+  font-family: serif;
+
+}
+.foot{
+  text-align: center;
+  margin-top: 100px;
+  font-variant-caps: all-petite-caps;
+}
